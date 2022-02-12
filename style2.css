@@ -1,0 +1,19 @@
+body{
+	background-color: aquamarine;
+	font-size: 55px;
+	font-family: fantasy;
+}
+h1{
+	color:lightcoral;
+	border: 45px solid #40c4c8;
+        padding: 33px;
+        border-image: url(68.jpg) 45
+          round round;
+}
+div{
+	font-family: sans-serif;
+	color: lightcyan;
+	background-color: black;
+	background-image: url(68.jpg);
+
+}
